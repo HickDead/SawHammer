@@ -1,0 +1,6 @@
+
+[KFWeap_Edged_SawHammer]
+ItemName="SawHammer"
+ItemCategory="Melee"
+ItemDescription="•Primary - medium/heavy damage, with some crowd control.\n•Secondary - slower, but with more damage.\n•Alt - block/parry\n•You do even more damage when moving forwards."
+;SharedUnlockSource="Chivalry Medieval Warfare" "
